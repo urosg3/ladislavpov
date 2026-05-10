@@ -1,5 +1,7 @@
 # LadiPOV
-
+<p align="center">
+  <img src="Xw8DxtK2_400x400.jpg" width="20">
+</p>
 LadiPOV is a personal fork and preservation mirror of the original POV Kodi addon.
 
 The goal of this repository is to:
