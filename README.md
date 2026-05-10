@@ -28,9 +28,9 @@ repository.ladislavpov-1.0.0.zip
 
 ---
 
-# LadiPOV
+# Ladislav POV
 
-LadiPOV je lični fork i backup mirror originalnog POV Kodi addona.
+Ladislav POV je lični fork i backup mirror originalnog POV Kodi addona.
 
 Cilj ovog repozitorijuma je:
 
